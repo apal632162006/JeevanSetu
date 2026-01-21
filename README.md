@@ -1,11 +1,11 @@
 # JeevanSetu
 We design the application on the healthcare facilities in rural areas.
 
-#**Problem Statement:**
+# **Problem Statement:**
 
 The rural healthcare landscape in India is defined by a **severe shortage of doctors, nurses, and specialists**, as a staggering **68% of the population** lives in remote areas with limited access to clinics. While a three-tier public structure exists, Community Health Centres (CHCs) are often understaffed, and peripheral Sub-centres rely heavily on **Auxiliary Nurse Midwives (ANMs)** or Village Health Workers (VHWs) who are trained only in basic healthcare. These frontline workers are often overburdened, serving up to five villages and relying on **fragmented paper-based systems** that restrict their ability to identify complex health issues. Furthermore, digital literacy among rural health workers in low- and middle-income countries (LMICs) averages only **42%**, and the lack of familiarity with smartphones creates a high learning curve for traditional digital solutions.
 
-#**Approach:**
+# **Approach:**
 
 To mitigate the acute human resource gap, the strategy focuses on **empowering existing lower-tier health workers** through specialized technology and remote specialist integration:
 
@@ -22,7 +22,7 @@ Apply the **HOT-FIT-BR framework** to assess the **Behavioral Readiness** and di
 Deploy **gamified Learning Management System (LMS) modules** in local languages (e.g., Marathi) to provide continuous, inclusive capacity building for rural health workers.
 Design simple, focused interfaces using **iconography** (the "5-second rule") to accommodate workers used to basic cellphones rather than smartphones.
 
-#**Expected Impact:**
+# **Expected Impact:**
 
 Addressing human resource shortages through these digital interventions is expected to produce the following outcomes:
 
